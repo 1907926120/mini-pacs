@@ -34,16 +34,16 @@
  **患者检查首页** 
 ![输入图片说明](imagesimage7.png)
 
-手动上传Dicom文件/文件：
+ **手动上传Dicom文件/文件：** 
 ![输入图片说明](imagesimage3.png)
 
-DICOM服务节点维护：
+ **DICOM服务节点维护：** 
 ![输入图片说明](imagesimage4.png)
 
 下载患者检查影像文件：    
 ![输入图片说明](imagesimage5.png)
 
 
-看图等：
+ **看图等：** 
 ​​![输入图片说明](imagesimage.png)
 
